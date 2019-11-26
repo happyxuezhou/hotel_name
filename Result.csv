@@ -1,0 +1,359 @@
+host,name
+hotels.ctrip.com,"['高星酒店', '布丁酒店', '锦江都城', '世纪酒店', '邮电宾馆', '蓝色快舟', '皇冠假日', '港丽酒店', '商旅酒店', '商旅酒店', '南苑e家', '艾迪逊', '商务旅馆', '喜来登大酒店', '世纪大酒店', '八一宾馆', '假日酒店', '威斯汀', '7天酒店', '汉庭', '休闲酒店', '豪生', '华联宾馆', '新酒店', '新酒店', '中城宾馆', '汉庭酒店', '附近酒店', '附近酒店', '全季酒店', '维景', '合作酒店', '宜必思', '速8酒店', '速8酒店', '青年酒店', '假日之星', '艾美酒店', '沪太路店', '百时快捷', '百时快捷', '快捷宾馆', '99旅馆', '旗舰酒店', '风尚酒店', '汉庭客栈', '携程酒店', '阳光宾馆']"
+gs.ctrip.com,"['高星酒店', '目的地营销']"
+iqiyi.com,"['往哪走', '大刺猬', '跑哪去', '蛰到', '被炸飞', '啥时候', '我们在哪', '树棒', '下一站去哪里', '走不走']"
+fabiaoqing.com,['跑哪去']
+dict.youdao.com,"['普通宾馆', '蛰到', '去多久', '普通旅馆', '商旅酒店', '度假产品', '石头砸', '酒店领域', '收客', '走了吗', '解放路店', '打包产品', '住宿方面', '豪华精选', '长竹竿', '快捷型', '经济连锁', '准四星', '产品预订', '捅掉', '捅出', '签约酒店', '用石头砸', '旗舰酒店', '小旅社']"
+podinns.com,['布丁酒店']
+airchina.com.cn,['预订机票']
+1zu.com,"['相寓', '相寓']"
+metropolohotels.com,['锦江都城']
+dianping.com,"['大众点评', '大众点评', '东大街店', '东大街店', '普通旅馆', '商务旅馆', '西客站店', '假日宾馆', '华联宾馆', '快捷连锁', '北京站店', '北京站店', '沪太路店', '时尚宾馆', '阳光宾馆']"
+t.dianping.com,['大众点评']
+kuaila.com,['去吗']
+1688.com,"['蓝天宾馆', '蘑菇顶']"
+xiami.com,"['去了哪里', '在这儿']"
+duanwenxue.com,['精选服务']
+minecraft-zh.gamepedia.com,['精选服务']
+secoo.com,['寺库']
+sohu.com,"['未来景区', '大蚊子', '传统旅行社', '干吗', '石头砸', '旅企', '华远国旅', '旅游搜索', '刺成', '新美大', '和马蜂', '奢华酒店', '蛰死', '蜘蛛窝', '蛇窝', '日本餐厅', '中端酒店', '旅游o2o', '旅游o2o', '蛰成', '吴志祥', '准四星', '布拉旅行', '酒店直销', 'jw万豪', '熊瞎子']"
+133.cn,['航班管家']
+meituan.com,"['美团团购', '美团团购', '美团团购', '比如美团', '比如美团', '美团网', '美团旅行', '酷讯', '酷讯网', '百度糯米', '美团']"
+elong.com,"['世纪酒店', '艺龙网', '星程酒店', '艺龙酒店', 'e龙', '艺龙', '及艺龙', '从艺龙', '携程艺龙']"
+baike.youabc.cn,"['世纪酒店', '住在哪里', '燕达宾馆', '99连锁']"
+zuzuche.com,['租租车']
+accorhotels.cn,"['索菲特', '雅高', '铂尔曼', '诺富特']"
+huazhu.com,"['怡莱酒店', '汉庭连锁', '汉庭连锁', '星程酒店', '汉庭', '桔子酒店', '华住集团', '汉庭全季', '汉庭宾馆', '华住', '华住', '汉庭快捷酒店']"
+chazidian.com,"['去多久', '扔下来', '窟窿眼儿']"
+dict.cn,"['去多久', '何时出发']"
+douhaogongyu.com,['逗号公寓']
+yazhugongyu.com,['逗号公寓']
+tuniu.com,"['途牛', '途牛旅游', '途牛网', '旅行公司']"
+hyatt.com,"['君悦酒店', '柏悦', '柏悦', '凯悦', '凯悦', '君悦', '凯悦集团', '凯悦酒店', '凯悦酒店']"
+ctrip.com,"['携程机票', '携程旅游', '机票预定', '携程网站', '宾馆旅馆', '携程旅行', 'ctrip', '携程集团', '携程', '携程网', '携程酒店']"
+coozhi.com,['怎么找']
+jfdaily.com,['冲天大火']
+bthhotels.com,"['如家', '首旅', '如家连锁', '如家集团', '如家集团', '首旅如家']"
+jd.com,"['ritz', '房间价格', '枯树干', '鸟蛋']"
+ritzcarlton.com,"['ritz', '丽思卡尔顿酒店']"
+you.ctrip.com,"['东大街店', '机票业务']"
+aoyou.com,"['中青旅', '遨游网']"
+activity.aoyou.com,['中青旅']
+scpth.com.cn,['邮电宾馆']
+baike.xmeise.com,['什么时候']
+tujia.com,"['途家网', '途家']"
+kumifeng.com,"['马蜂蛰', '马蜂蛰', '牛角蜂', '人头蜂']"
+lansekuaizhou.qj.com.cn,['蓝色快舟']
+meadin.com,['中档酒店']
+ciweilive.com,"['刺猬', '刺猾', '刺猥']"
+gaoxiaogif.com,"['你去哪了', '你去了哪']"
+ask.39.net,['捅']
+qunar.com,"['去那儿', '去哪', '哪网', '去哪儿旅行', '去哪里', '去哪网', '去哪儿网', '去哪啊', '去那', '想去哪儿']"
+zhuna.cn,"['住在哪里', '住哪里', '住哪里', '住哪儿网', '住哪儿', '住哪网', '汉庭全季', 'jw万豪', '汉庭快捷酒店']"
+easytour.cn,['易游天下']
+1utour.com,['易游天下']
+langhamhospitalitygroup.com,['朗廷']
+guba.eastmoney.com,"['众信旅游', '腾邦国际', '首旅酒店']"
+stockpage.10jqka.com.cn,"['众信旅游', '锦江股份', '腾邦国际', '首旅酒店', 'htht']"
+ymcall.com,['住百家']
+lagou.com,['住百家']
+hotel.elong.com,"['艺龙酒店', '高档酒店']"
+hesuoyouhotel.com,['所有酒店']
+wot2play.com,['玩什么']
+douban.com,"['洞', '被射', '去哪儿吃', '走不走', '想干什么']"
+movie.douban.com,"['洞', '找什么', '啥时候', '蜇人', '家在哪儿', '得千疮']"
+hangzhouyoung.lofter.com,['找什么']
+fliggy.com,"['去啊', '飞猪旅行', '飞猪旅行', '飞猪']"
+wjszx.com.cn,"['蛰得', '乱飞', '刺成', '蛰死']"
+mip.39yst.com,['蛰得']
+bj.meituan.com,['比如美团']
+touch.qunar.com,['去哪']
+yunquna.com,['去哪']
+52mf.com.cn,"['魔方公寓', '火车站店']"
+wuxi.baixing.com,['魔方公寓']
+hilton.com.cn,"['港丽酒店', '希尔顿', '康莱德']"
+flight.qunar.com,"['机票预定', '去哪里']"
+zixun.jia.com,['房顶']
+spider.com.cn,['蜘蛛网']
+uoko.com,"['优客逸家', '优客逸家']"
+egreenhotel.cn,['南苑e家']
+ihg.com.cn,"['洲际酒店', '洲际集团', 'ihg']"
+woshipm.com,"['机票产品', '线路产品', '在线旅行']"
+ctoutiao.com,"['机票产品', '旅企']"
+zhipin.com,"['机票产品', '直订', '新美大', '回家么']"
+etuan.com,['团网']
+ccyl.org.cn,['团网']
+qu.cn,['到哪儿']
+ganshane.cn,"['干啥呢', '干啥']"
+shijiebang.com,['世界邦']
+genshuixue.com,"['跟谁', '跟谁']"
+mayi.com,"['商务酒店', '商务宾馆', '家庭宾馆', '家庭宾馆', '蚂蚁短租', '蚂蚁短租', '住宿选择']"
+10101111.com,['神州专车']
+ganji.com,"['神州专车', '58赶集']"
+clubvvc.com,['度假产品']
+7daysinn.cn,"['七天酒店', '7天连锁', '连锁宾馆', '七天快捷酒店', '七天假日酒店', '天连锁酒店', '7天酒店', '快捷连锁']"
+hao315.com,['富驿酒店']
+fxhotelsgroup.com,['富驿酒店']
+mafengwo.cn,"['蚂蜂窝', '蚂蜂窝', '当地游', '当地游', '蚂蚁窝', '住哪儿', '住哪儿', '马蜂', '哪里', '马蜂包', '捅蜂窝', '蜂窝', '蜂窝', '蚂蜂', '蚂蜂', '野蜂窝', '野蜂窝', '蜂窝的', '鹰巢']"
+mip.ttrar.com,['住哪里']
+gaosan.com,['在树上']
+zybang.com,['在树上']
+dlhis.com,['信用住']
+hishop.com.cn,"['信用住', '旅游o2o']"
+travelzen.com,['真旅网']
+travelzen.com.cn,['真旅网']
+menpiao.tuniu.com,['景区门票预订']
+orangehotel.com.cn,['桔子水晶']
+weapon.huanqiu.com,['炸弹']
+cidianwang.com,"['群起攻之', '窟窿眼']"
+cihai123.com,['群起攻之']
+caissa.com.cn,['凯撒旅游']
+zh.caissa.de,['凯撒旅游']
+bigant.cn,['大蚂蚁']
+duote.com,['大蚂蚁']
+leawin.com,['酒店领域']
+xiaoyaolvxing.com,['收客']
+a.app.qq.com,['大蜂窝']
+joyu.com,['景域集团']
+news.cnstock.com,['景域集团']
+taocan.ctrip.com,"['机酒', '机+酒']"
+pages.ch.com,"['机酒', '机+酒']"
+5fen.com,['机酒']
+8pig.com,['8只小猪']
+hao123.com,['炸平']
+meishij.net,['炸平']
+accorhotels.com,['铂尔曼']
+wx.meituan.com,['美团网']
+v.qq.com,['被射']
+zuche.com,['神州租车']
+stock.10jqka.com.cn,['神州租车']
+music.douban.com,['走了吗']
+55tuan.com,['窝窝团']
+sj.zol.com.cn,['窝窝团']
+cits.cn,['当地游']
+naliwan.com,['哪玩']
+wuxi.lotour.com,['哪玩']
+99inn.cc,"['99连锁', '99旅馆']"
+cz-hb.com,['解放路店']
+m.158752.vip,['解放路店']
+lvmama.com,"['驴妈妈网', '驴妈妈旅游网', '驴妈妈']"
+jjql.com.cn,"['驴妈妈网', '驴妈妈旅游网', '游多多']"
+m.lvmama.com,['驴妈妈网']
+eb.meituan.com,['美团酒店']
+ly.com,"['同程网', '同程旅游', '同程国旅', '同程旅行', '同程旅行', '同程']"
+chinapp.com,"['连锁宾馆', '酒店集团']"
+langhamhotels.com,"['朗庭酒店', '朗廷酒店']"
+com1087573.shop.hao315.tv,['金广快捷']
+mip.szbbs.cn,['金广快捷']
+wjyanghu.com,['旅企']
+news.163.com,['炸伤']
+springtour.com,"['春秋旅游', '春秋国旅']"
+wxchunqiu.com,['春秋旅游']
+jinjianginns.com,['锦江之星']
+book.douban.com,"['走吗', '你要去哪']"
+libaclub.com,['机+酒']
+baicheng.com,['百程旅行']
+auyou021.cn,"['百程旅行', '欣欣旅游', '酷讯网', '木鸟短租']"
+njaihua.com,['百程旅行']
+tanmizhi.com,['毒蜂']
+huangbaoche.com,['皇包车']
+bj-sydc.com,['七天快捷酒店']
+dinngoo.com,['预订平台']
+12306.cn,['预订平台']
+jinjianghotels.com,['锦江酒店']
+e.51sole.com,['e龙']
+yogsu.com,['个树']
+club.xywy.com,['蜂包']
+120ask.com,['蜂包']
+news.china.com,['炸烂']
+mosca.com,['打包产品']
+paidai.com,['打包产品']
+liuxue86.com,"['住宿方面', '糯米网']"
+yicai.com,['锦江系']
+finance.sina.com.cn,"['锦江系', '首旅集团']"
+bynrnews.com,['哪家']
+marriott.com.cn,"['威斯汀', '万豪', '万豪国际集团', '喜达屋', '万豪国际', '万豪酒店', '万豪集团']"
+z.mafengwo.cn,['蚂蚁窝']
+life.fourseasons.com,['四季酒店']
+m.ctrip.com,"['四季酒店', 'ctrip']"
+flyertea.com,['万豪']
+zhiding365.com,['直订']
+kanzhun.com,['华远国旅']
+wxgj.net,['国际饭店']
+jumei.com,['聚美优品']
+cncn.com,"['欣欣旅游', '欣欣旅游']"
+bettertree.cn,['树上']
+shushang.com,['树上']
+plateno.com,"['铂涛', '铂涛旅行']"
+dev.platenogroup.com,"['铂涛', '铂涛集团']"
+plateno.cc,"['铂涛', '铂涛集团']"
+jinjianghotels.sh.cn,['锦江股份']
+itunes.apple.com,['我在哪儿']
+booking.com,"['豪华酒店', '缤客']"
+bj.xiaomishu.com,['西客站店']
+998.com,"['格林豪泰', '旗下酒店']"
+news.sina.com.cn,['暴徒']
+1615.cn,"['尚美生活', '尚美生活']"
+hojochina.com,"['豪生', '豪生酒店']"
+lashou.com,['拉手网']
+m.lashou.com,['拉手网']
+360doc.com,"['酒店巨头', '捅马蜂窝', '乱箭齐发', '住宿选择']"
+jianshu.com,"['酒店巨头', '捅蜂窝']"
+quote.eastmoney.com,"['艺龙', '大酒店', 'htht', '同程']"
+agoda.com,['雅高达']
+xiaohongshu.com,['你要去哪']
+tianxun.com,['天巡']
+yue365.com,['怎么了']
+btg.com.cn,"['首旅集团', '首旅']"
+doubletree.hilton.com.cn,['希尔顿逸林']
+mt168.1688e.com,['莫泰连锁旅店']
+22lrc.com,['你去了哪']
+keyunzhan.com,['火车站店']
+xiachufang.com,['做什么']
+zygj.net,['奢华酒店']
+alitrip.com,"['阿里去啊', '淘宝旅行', '阿里旅行']"
+trip.taobao.com,"['阿里去啊', '淘宝旅行']"
+hotel.sohu.com,['酒店频道']
+b2b.haier.com,['酒店频道']
+ifenglife.com,['酒店频道']
+hr.lilyenglish.com,['哪里']
+sheraton-wuxi.cn,['喜来登']
+galaxyshotel.com,['银河宾馆']
+hmuni.com,['遨游网']
+auyou.com,['遨游网']
+fun48.com,['想干嘛']
+travel.qunar.com,['去哪儿旅行']
+xpgod.com,['去哪儿吃']
+fourseasons.com,['四季饭店']
+super8.com.cn,"['速八酒店', '速8酒店']"
+yirendai.com,['宜人贷']
+jiemeng.tw,['爬上大树']
+m.sohu.com,"['爬上大树', '得千疮', '被捅']"
+zgjm.org,['爬上大树']
+nbolu.com,['哪']
+nbd.com.cn,['及艺龙']
+ele.me,['了吗']
+shailema.com,['了吗']
+jjwxc.net,['了吗']
+maigoo.com,['顶级酒店']
+vb.lanmei80.com,['钉子']
+mangocity.com,['芒果网']
+mgtv.com,['芒果网']
+kuxun.cn,"['酷讯', '酷讯网']"
+1hai.cn,['一嗨租车']
+car.ctrip.com,['一嗨租车']
+youabc.cn,['时尚酒店']
+mg.podinns.com,['时尚酒店']
+tom.com,['国内在线']
+news.cri.cn,['国内在线']
+5qwan.com,['去玩儿']
+quwanr.net,['去玩儿']
+flight.elong.com,['从艺龙']
+lhfw.orsoft.org,['旅行服务']
+go2tw.cn,['旅行服务']
+onwsw.com,['旅行服务']
+cyzone.cn,['晚上去哪儿']
+cr173.com,['晚上去哪儿']
+860816.com,['到哪玩']
+yndaily.yunnan.cn,['线上旅游']
+chyxx.com,['线上旅游']
+qyer.com,"['标间', '穷游网']"
+shouji.zhuna.cn,['住哪网']
+teckonhotel.com,['酒店集团']
+umetrip.com,"['航旅纵横', '航旅纵横']"
+mdpda.com,['乱炸']
+ditu.city8.com,['北京站店']
+lvyouquan.cn,['线路产品']
+stourweb.com,['线路产品']
+waldorfastoriahotels.com.cn,['华尔道夫']
+waldorfastoriashanghai.com,['华尔道夫']
+so.redocn.com,"['篓子', '枯树干']"
+whghotels.cn,['温德姆']
+szbiztour.com,['旅行公司']
+uzai.com,"['旅行公司', '悠哉网']"
+yoozai.com,['悠哉网']
+colobu.com,['鸟窝']
+51yund.com,['悦动圈']
+d.51yund.com,['悦动圈']
+traveldaily.cn,['在线旅行']
+fulihua.net,['富丽华']
+mini.itunes123.com,['射成']
+ibis.cn,['宜必思']
+tech.ifeng.com,['于敦德']
+homeplus.cn,"['红璞', '红璞']"
+h.homeplus.cn,['红璞']
+99114.com,['长竹竿']
+jyinns.com,['银座佳驿']
+starwoodhotels.com,['喜达屋']
+biquke.com,['乱枪']
+xbiqugexsw.com,['乱枪']
+book.qidian.com,"['乱枪', '血葫芦']"
+cct.cn,['康辉旅游']
+wx.cct.cn,['康辉旅游']
+eaka365.com,['驿家365']
+kaiyuanhotels.com,['开元酒店']
+china.cn,['经济连锁']
+iask.sina.com.cn,"['怎么安排', '捅出']"
+docin.com,['怎么安排']
+lotour.com,['土匪窝']
+chachaba.com,['找谁']
+new.qq.com,"['蛰成', '咋']"
+ifengwoo.com,['蜂窝']
+careers.marriott.com.cn,['万豪国际']
+yododo.com,['游多多']
+extbrand.com,['酒店业务']
+gelonghui.com,['酒店业务']
+jiarizhixingjiudian.jiam.shgao.com,['假日之星']
+ttrar.com,"['在哪儿', '看什么']"
+kempinskihotelwuxi.vip.lechengol.com,['凯宾斯基']
+jintiankansha.me,['看什么']
+liupanshui.ganji.com,['58赶集']
+58.com,['58赶集']
+bjswhotel.com,['商务会馆']
+variflight.com,['飞常准']
+passport.tujia.com,['途家']
+plan.qyer.com,['穷游网']
+search.qyer.com,['穷游网']
+cruise.ctrip.com,['产品预订']
+visitrovaniemi.fi,['何时出发']
+0460.com,['万达旅业']
+wdxhx.com,['万达旅业']
+ly-demo.wanda.cn,['万达旅业']
+lxs.cncn.com,['地接社']
+z.xiziwang.net,['蜜蜂窝']
+sanqin.com,['捅掉']
+indigo-imaging.com,['英迪格']
+wanzhoumo.com,['周末去哪']
+piao.qunar.com,['周末去哪']
+wx.bendibao.com,['周末去哪']
+jt.rsscc.com,['高铁管家']
+xiaoyuanju.com,['捅出']
+hkctshotels.com,['维景酒店']
+grandhotelbeijing.com,['贵宾楼']
+huodong.ctrip.com,['当地玩乐']
+tour.aoyou.com,['当地玩乐']
+ir.ctrip.com,['携程投资']
+hotel.8684.cn,['汉庭快捷酒店']
+moguding.net,['蘑菇顶']
+53.com.cn,['华天之星']
+1637.com,['华天之星']
+futurehotel.com,['未来酒店']
+danci.911cha.com,['想去哪儿']
+1688e.com,"['商务型酒店', '汉庭客栈']"
+thepaper.cn,['航司']
+cn.mandarinoriental.com,['文华东方']
+huizuche.com,['惠租车']
+muniao.com,['木鸟短租']
+loveinhere.com,['在这儿']
+shoufuyou.com,['首付游']
+weibo.com,['首付游']
+t.qianzhan.com,['签约酒店']
+45575.com,['用石头砸']
+baozun.com,['宝尊电商']
+qianzhan.com,['携程系']
+quanlaoda.com,['糯米网']
+66law.cn,['途牛则']
+summary.jrj.com.cn,['酒店板块']
+money.163.com,['酒店板块']
+conrad.com.cn,['康莱德']
+tianyancha.com,['铂涛旅行']
